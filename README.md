@@ -9,6 +9,6 @@ Im Sommersemester 2020 werden die Notebooks wie folgt für das Praktikum genutzt
 * Classification/Wine-Quality/Klassifikation von Wein.ipynb
 * Regression/Wine-Alcohol/Vorhersage des Alkoholgehalts von Wein.ipynb
 
-## Notebooks zur selbsständigen Bearbeitung und Abgabe als Praktikumsbeleg:
+## Notebooks zur selbstständigen Bearbeitung und Abgabe als Praktikumsbeleg:
 * Classification/Titanic/Untergang der Titanic.ipynb
 * Regression/House-Prices/Immobilienpreise in Deutschland.ipynb
