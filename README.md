@@ -11,4 +11,4 @@ Im Sommersemester 2020 werden die Notebooks wie folgt für das Praktikum genutzt
 
 ## Notebooks zur selbstständigen Bearbeitung und Abgabe als Praktikumsbeleg:
 * Classification/Titanic/Untergang der Titanic.ipynb
-* Regression/House-Prices/Immobilienpreise in Deutschland.ipynb
+* Regression/House-Prices/Vorhersage von Immobilienpreisen.ipynb
