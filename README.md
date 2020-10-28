@@ -1,6 +1,5 @@
 # tud-ais
-Zusatzmaterial für das Modul Angewandte Intelligente Signalverarbeitung
-
+Supplemental materials for the module "Angewandte Intelligente Signalverarbeitung"
 
 Im Sommersemester 2020 werden die Notebooks wie folgt für das Praktikum genutzt:
 
