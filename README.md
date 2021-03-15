@@ -2,7 +2,7 @@
 Zusatzmaterial für das Modul Angewandte Intelligente Signalverarbeitung
 
 
-Im Sommersemester 2020 werden die Notebooks wie folgt für das Praktikum genutzt:
+Im Sommersemester 2021 werden die Notebooks wie folgt für das Praktikum genutzt:
 
 ## Notebooks zur geführten Vorbereitung:
 * Preprocessing/Lego-Sets/Lego Sets Preprocessing.ipynb
